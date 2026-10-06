@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "liminal laundromat",
+    "author": "yahya9090",
+    "description": "It looks good because I made it >:3",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-65be8791.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-06",
+            "notes": "first update and probably last"
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.jpg"
+}

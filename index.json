@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "author": "yahya9090",
+    "presets": [
+        {
+            "id": "liminal-laundromat",
+            "name": "liminal laundromat",
+            "description": "It looks good because I made it >:3",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/liminal-laundromat",
+            "wallpaper": "presets/liminal-laundromat/wallpaper.png",
+            "banner": "presets/liminal-laundromat/banner.jpg",
+            "screenshots": [
+                "presets/liminal-laundromat/screenshots/1-65be8791.png"
+            ]
+        }
+    ]
+}
